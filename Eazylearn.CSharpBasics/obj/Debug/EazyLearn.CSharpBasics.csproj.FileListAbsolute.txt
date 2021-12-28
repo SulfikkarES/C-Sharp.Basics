@@ -1,0 +1,7 @@
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\CSharpBasics\Eazylearn.CSharpBasics\Eazylearn.CSharpBasics\obj\Debug\Eazylearn.CSharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\CSharpBasics\Eazylearn.CSharpBasics\Eazylearn.CSharpBasics\bin\Debug\Eazylearn.CSharpBasics.exe.config
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\CSharpBasics\Eazylearn.CSharpBasics\Eazylearn.CSharpBasics\bin\Debug\Eazylearn.CSharpBasics.exe
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\CSharpBasics\Eazylearn.CSharpBasics\Eazylearn.CSharpBasics\bin\Debug\Eazylearn.CSharpBasics.pdb
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\CSharpBasics\Eazylearn.CSharpBasics\Eazylearn.CSharpBasics\obj\Debug\Eazylearn.CSharpBasics.exe
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\CSharpBasics\Eazylearn.CSharpBasics\Eazylearn.CSharpBasics\obj\Debug\Eazylearn.CSharpBasics.pdb
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\CSharpBasics\Eazylearn.CSharpBasics\Eazylearn.CSharpBasics\obj\Debug\EazyLearn.CSharpBasics.csprojAssemblyReference.cache

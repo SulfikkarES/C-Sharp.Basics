@@ -5,7 +5,7 @@
 // prohibited without the prior written consent of the copyright owner.
 //
 // Filename        : C#Basics.cs
-// Purpose         : To practice C# Basics 
+// Purpose         : C# Basics in practice
 // Creation Date   : 19-09-2021
 // Author          : Sulfikkar E S
 //
@@ -14,7 +14,7 @@
 // Date            : 
 // Purpose         :
 //
-#endregion Copyright 
+#endregion Copyright EazyLearn
 
 #region included namespaces
 using System;
